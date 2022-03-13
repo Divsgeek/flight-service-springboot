@@ -1,4 +1,4 @@
-# flight.service.demo
+# flight.service
  Demo project for flight booking with mysql db.
 It has a passenger info model and payment info model for flight booking service.It uses HTTP POST method to update booking.
 It uses hibernate model for MySQL5Dialect.
